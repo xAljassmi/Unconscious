@@ -1,9 +1,13 @@
 Download Here: https://r6team.tebex.io/
+
 Discord: https://discord.gg/r6t
+
 Preview: https://youtu.be/awih4sx0Zvs
 
 Script Name: Unconscious System
+
 Framework: QBCore, QBox, ESX
+
 Dependencies: ox_lib
 
 ## Description:
